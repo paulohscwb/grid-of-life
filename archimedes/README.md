@@ -39,7 +39,7 @@ This work shows Archimedean polyhedra inscribed or circumscribed in the symbol o
 <p align="center"><img style="border-radius:7px;" alt="Augmented Reality to Sacred Geometry symbols" src="ar/example.png" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUnQp7BMJS5m8ATRTtQvhIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUnQp7BMJS5m8ATRTtQvhIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Cuboctahedron</h4>
 <a href="vr/GridOfLife_Cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Grid of life - Cuboctahedron"></a><img src="ar/0.png" class="qr">
  <br><br><br>The Archimedes cuboctahedron represents the Energy Vector of Equilibrium. The cuboctahedron corresponds to the seventh circumference of the Seed of Life symbol and the vertices of this solid appear overlapping or in correspondence with some intersections of the Grid of Life symbol lines.
