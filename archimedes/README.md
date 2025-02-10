@@ -39,7 +39,7 @@ This work shows Archimedean polyhedra inscribed or circumscribed in the symbol o
 <p align="center"><img style="border-radius:7px;" alt="Augmented Reality to Sacred Geometry symbols" src="ar/example.png" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUFFS5qIXC2KozRYcu06Jaq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUnQp7BMJS5m8ATRTtQvhIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Cuboctahedron</h4>
 <a href="vr/GridOfLife_Cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Grid of life - Cuboctahedron"></a><img src="ar/0.png" class="qr">
  <br><br><br>The Archimedes cuboctahedron represents the Energy Vector of Equilibrium. The cuboctahedron corresponds to the seventh circumference of the Seed of Life symbol and the vertices of this solid appear overlapping or in correspondence with some intersections of the Grid of Life symbol lines.
@@ -48,7 +48,7 @@ This work shows Archimedean polyhedra inscribed or circumscribed in the symbol o
  <hr>
 <h4>2. Rhombicuboctahedron</h4>
 <a href="vr/GridOfLife_Rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Grid of life - Rhombicuboctahedron"></a><img src="ar/1.png" class="qr">
- <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. a A rhombicuboctahedron can be inscribed in the Grid of Life symbol.
+ <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A rhombicuboctahedron can be inscribed in the Grid of Life symbol.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
@@ -60,7 +60,7 @@ This work shows Archimedean polyhedra inscribed or circumscribed in the symbol o
  <hr>
 <h4>4. Truncated Cube</h4>
 <a href="vr/GridOfLife_TruncatedCube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Grid of life - Truncated Cube"></a><img src="ar/3.png" class="qr">
- <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. a A truncated cube can be inscribed in the Grid of Life symbol.
+ <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A truncated cube can be inscribed in the Grid of Life symbol.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
@@ -72,7 +72,7 @@ This work shows Archimedean polyhedra inscribed or circumscribed in the symbol o
  <hr>
 <h4>6. Truncated Octahedron</h4>
 <a href="vr/GridOfLife_TruncatedOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Grid of life - Truncated Octahedron"></a><img src="ar/5.png" class="qr">
- <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. a A truncated octahedron can be inscribed in the Grid of Life symbol.
+ <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A truncated octahedron can be inscribed in the Grid of Life symbol.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <hr>
@@ -84,7 +84,7 @@ This work shows Archimedean polyhedra inscribed or circumscribed in the symbol o
  <hr>
 <h4>8. Truncated Stellated Tetrahedron</h4>
 <a href="vr/GridOfLife_TruncatedTetrahedronStar.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Grid of Life - Truncated Stellated Tetrahedron"></a><img src="ar/7.png" class="qr">
- <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. a A truncated stellated tetrahedron can be inscribed in the Grid of Life symbol.
+ <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A truncated stellated tetrahedron can be inscribed in the Grid of Life symbol.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <p class="topop"><a href="#p1" class="topo">back to top</a></p>
