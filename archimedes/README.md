@@ -24,7 +24,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Grid of life and the polyhedra of Plato and Archimedes</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Grid of life and the Archimedean polyhedra</h2>
 The symbol of the Grid of Life, also called tetrahedron 64, contrasts the Star Tetrahedron with the Flower of Life. We have 64 tetrahedra that form the Grid of Life symbol, which can be overlayed on the Flower of Life symbol, with the circles symbolizing the vastness of space and the interconnected lines indicating where space converges over time. 
 This work shows Archimedean polyhedra inscribed or circumscribed in the symbol of the Grid of Life, with views that can be accessed with Augmented Reality resources and also in immersive Virtual Reality rooms.
 <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
