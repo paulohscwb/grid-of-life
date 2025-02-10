@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../../scripts/style.css">
 <meta charset="utf-8">
 <link rel="icon" type="image/png" href="../vr/salas/imagens/icone.png">
-<h2>Geometria Sagrada: visualização de símbolos com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
+<h2>Visualização de poliedros no símbolo da Grade da Vida com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/grid-of-life/archimedes/">english version</a>

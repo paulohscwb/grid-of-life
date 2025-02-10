@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../scripts/style.css">
 <meta charset="utf-8">
 <link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
-<h2>Sacred Geometry: visualization of symbols with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
+<h2>Visualization of polyhedra in Grid of Life symbol with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/grid-of-life/archimedes/pt-br/">versão em português</a>
