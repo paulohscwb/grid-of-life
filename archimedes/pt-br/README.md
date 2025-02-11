@@ -29,7 +29,7 @@ function urlHandler(value) {
 Este trabalho mostra poliedros de Arquimedes inscritos ou circunscritos no símbolo da Grade da vida, com as visualizações que podem ser acessadas com os recursos de Realidade Aumentada e também em salas imersivas de Realidade Virtual.
  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
- <h3 align="center">Salas imersiva</h3>
+ <h3 align="center">Sala imersiva</h3>
   <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva dos poliedros de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><img align="middle" src="../vr/salas/videos/archimedes.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy" alt="VR immersive room to Archimedean polyhedra"/><a href="../sala.htm" target="_blank">&#x1f517; room link</a></p> 
   <hr>
