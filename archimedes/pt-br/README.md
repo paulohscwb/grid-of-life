@@ -7,12 +7,12 @@
 <br><a href="https://paulohscwb.github.io/grid-of-life/archimedes/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
-		<option disabled selected>Mais símbolos:</option>
+		<option disabled selected>Mais poliedros:</option>
 		<option disabled value="../../archimedes/pt-br/">Poliedros de Arquimedes</option>
 		<!--<option value="../../biscribed/pt-br/">Poliedros biscritos</option>
-		<option value="../../catalan/pt-br/">Poliedros de Catalan</option>
+		<option value="../../catalan/pt-br/">Poliedros de Catalan</option>-->
 		<option value="../../joined/pt-br/">Cascos convexos de Arquimedes e de Catalan</option>
-		<option value="../../nonconvex/pt-br/">Poliedros não convexos</option>
+		<!--<option value="../../nonconvex/pt-br/">Poliedros não convexos</option>
 		<option value="../../propellor/pt-br/">Poliedros de hélice</option>
 		<option value="../../toroids/pt-br/">Toroides poliédricos</option>-->
 	</select>
