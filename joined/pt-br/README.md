@@ -39,7 +39,7 @@ function urlHandler(value) {
 <p align="center"><img style="border-radius:7px;" alt="Realidade Aumentada do símbolo Grade da Vida" src="../ar/example.png" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUnQp7BMJS5m8ATRTtQvhIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXtlU9Y-VgIXEvkTGrlRsG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Cuboctaedro combinado</h4>
 <a href="../vr/GridOfLife_JoinedCuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Grade da vida - Cuboctaedro combinado"></a><img src="../ar/8.png" class="qr">
  <br><br><br>O cuboctaedro de Arquimedes representa o Vetor de Equilíbrio de energia. O cuboctaedro corresponde à sétima circunferência do símbolo da Semente da Vida e os vértices deste sólido aparecem sobrepostos ou com correspondência a algumas interseções das linhas do símbolo da Grade da Vida.
