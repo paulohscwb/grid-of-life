@@ -87,6 +87,12 @@ The symbol of the Grid of Life, also called tetrahedron 64, contrasts the Star T
  <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A joined truncated stellated tetrahedron can be inscribed in the Grid of Life symbol.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+ <hr>
+<h4>9. Joined truncated tetrahedron fractal</h4>
+<a href="vr/GridOfLife_Fractal3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Grid of Life - Joined truncated tetrahedron fractal"></a><img src="ar/16.png" class="qr">
+ <br><br><br>Some examples that we can cite are: in computing, where the number of 64 bits of memory is essential; in the classic games of chess or checkers, which have 64 squares on their boards; or in sacred texts of Hinduism, which references 64 tantras. A joined truncated tetrahedron can be inscribed in the Grid of Life symbol.
+ <br><br>
+ <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <hr>
 

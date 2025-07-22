@@ -87,6 +87,12 @@ function urlHandler(value) {
  <br><br><br>Grande parte do fascínio do símbolo da Grade da Vida vem do número 64, que surge recorrentemente na natureza, nas construções e no misticismo. Um tetraedro truncado estrelado combinado pode ser inscrito no símbolo da Grade da Vida.
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>9. Fractal de Tetraedro truncado combinado</h4>
+<a href="../vr/GridOfLife_Fractal3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Grade da vida - Fractal de Tetraedro truncado combinado"></a><img src="../ar/16.png" class="qr">
+ <br><br><br>Alguns exemplos que podemos citar são: na computação, onde o número de 64 bits de memória é essencial; nos jogos clássicos de xadrez ou damas, que possuem 64 casas em seus tabuleiros; ou em textos sagrados do Hinduísmo, que faz referência a 64 tantras. Um tetraedro truncado combinado pode ser inscrito no símbolo da Grade da Vida.
+ <br><br><br>
+<a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <hr>
 
