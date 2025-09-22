@@ -9,8 +9,8 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Poliedros de Arquimedes</option>
-		<!--<option value="../../biscribed/pt-br/">Poliedros biscritos</option>
-		<option value="../../catalan/pt-br/">Poliedros de Catalan</option>-->
+		<!--<option value="../../biscribed/pt-br/">Poliedros biscritos</option>-->
+		<option value="../../catalan/pt-br/">Poliedros de Catalan</option>
 		<option disabled value="../../joined/pt-br/">Cascos convexos de Arquimedes e de Catalan</option>
 		<!--<option value="../../nonconvex/pt-br/">Poliedros não convexos</option>
 		<option value="../../propellor/pt-br/">Poliedros de hélice</option>
