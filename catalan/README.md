@@ -39,7 +39,7 @@ The symbol of the Grid of Life, also called tetrahedron 64, contrasts the Star T
 <p align="center"><img style="border-radius:7px;" alt="Augmented Reality to Grid of Life" src="ar/example.png" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUnQp7BMJS5m8ATRTtQvhIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUqLn4U0yrYWCno57NNCNWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Deltoidal Icositetrahedron</h4>
 <a href="vr/DeltoidalIcositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Grid of life - Deltoidal Icositetrahedron"></a><img src="ar/0.png" class="qr">
  <br><br><br>Some examples that we can cite are: in computing, where the number of 64 bits of memory is essential; in the classic games of chess or checkers, which have 64 squares on their boards; or in sacred texts of Hinduism, which references 64 tantras. A deltoidal icositetrahedron can be inscribed in the Grid of Life symbol.

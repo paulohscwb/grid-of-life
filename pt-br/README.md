@@ -5,10 +5,11 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/grid-of-life/">english version</a>
-<br><br>A Geometria Sagrada é considerada a linguagem do design universal do cosmos. Trata-se de uma ciência antiga que explora e explica os padrões de energia que servem para criar e unificar todas as coisas. 
+<div><img align="right" src="../imagens/qr.png"/>
+<br>A Geometria Sagrada é considerada a linguagem do design universal do cosmos. Trata-se de uma ciência antiga que explora e explica os padrões de energia que servem para criar e unificar todas as coisas. 
 <br>As estruturas matemáticas utilizadas na Geometria Sagrada podem ser encontradas nas artes, arquitetura e até em nosso DNA. Estas estruturas estão em toda parte, e servem de ligação entre o pensamento analítico e o lado intuitivo, ou então entre a ciência e a espiritualidade.
 <br>O símbolo da Grade da Vida, também denominado tetraedro 64, contrapõe o Tetraedro Estrelado com a Flor da Vida. Temos 64 tetraedros que formam o símbolo da Grade da Vida, que pode ser sobreposto ao símbolo da Flor da Vida, com os círculos simbolizando a vastidão do espaço e as linhas interligadas indicando onde o espaço converge com o tempo.
-<br>Este trabalho mostra alguns poliedros inscritos ou circunscritos no símbolo da Grade da Vida modelados em 3D, com as visualizações que podem ser acessadas com os recursos de Realidade Aumentada e também em salas imersivas de Realidade Virtual.
+<br>Este trabalho mostra alguns poliedros inscritos ou circunscritos no símbolo da Grade da Vida modelados em 3D, com as visualizações que podem ser acessadas com os recursos de Realidade Aumentada e também em salas imersivas de Realidade Virtual.</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../archimedes/pt-br/"><img src="../archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Poliedros de Arquimedes</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="../biscribed/pt-br/"><img src="../biscribed/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Poliedros biscritos</a></h3>-->

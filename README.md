@@ -5,10 +5,11 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/grid-of-life/pt-br/">versão em português</a>
- <br><br>Sacred Geometry is considered the universal design language of the cosmos. It is an ancient science that explores and explains the energy patterns that serve to create and unify all things.
+ <div><img align="right" src="imagens/qr.png"/>
+ <br>Sacred Geometry is considered the universal design language of the cosmos. It is an ancient science that explores and explains the energy patterns that serve to create and unify all things.
 <br>The mathematical structures used in Sacred Geometry can be found in the arts, architecture and even in our DNA. These structures are everywhere, and serve as a link between analytical thinking and the intuitive side, or between science and spirituality.
 <br>The symbol of the Grid of Life, also called tetrahedron 64, contrasts the Star Tetrahedron with the Flower of Life. We have 64 tetrahedra that form the Grid of Life symbol, which can be overlayed on the Flower of Life symbol, with the circles symbolizing the vastness of space and the interconnected lines indicating where space converges over time.
-<br>This work shows polyhedra inscribed or circumscribed in the Grid of Life symbol modeled in 3D, with views that can be accessed with Augmented Reality resources and also in immersive Virtual Reality rooms.
+<br>This work shows polyhedra inscribed or circumscribed in the Grid of Life symbol modeled in 3D, with views that can be accessed with Augmented Reality resources and also in immersive Virtual Reality rooms.</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="archimedes/"><img src="archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Archimedean polyhedra</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="biscribed/"><img src="biscribed/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Biscribed polyhedra</a></h3>-->
