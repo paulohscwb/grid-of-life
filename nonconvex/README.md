@@ -9,7 +9,7 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedean polyhedra</option>
-		<option value="../biscribed/">Biscribed polyhedra</option>
+		<!--<option value="../biscribed/">Biscribed polyhedra</option>-->
 		<option value="../catalan/">Catalan polyhedra</option>
 		<option value="../joined/">Archimedean and Catalan convex hulls</option>
 		<option disabled value="../nonconvex/">Nonconvex polyhedra</option>
