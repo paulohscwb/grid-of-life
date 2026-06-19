@@ -9,11 +9,11 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedean polyhedra</option>
-		<!--<option value="../biscribed/">Biscribed polyhedr</option>-->
+		<option value="../biscribed/">Biscribed polyhedra</option>
 		<option value="../catalan/">Catalan polyhedra</option>
 		<option disabled value="../joined/">Archimedean and Catalan convex hulls</option>
-		<!--<option value="../nonconvex/">Nonconvex polyhedra</option>
-		<option value="../propellor/">Propellor polyhedra</option>
+		<option value="../nonconvex/">Nonconvex polyhedra</option>
+		<!--<option value="../propellor/">Propellor polyhedra</option>
 		<option value="../toroids/">Polyhedral toroids</option>-->
 	</select>
 </form>
@@ -104,5 +104,5 @@ The symbol of the Grid of Life, also called tetrahedron 64, contrasts the Star T
 <br><br><b>References:</b>
 <br>Pardesco. "Sacred Geometry Art, Symbols & Meanings". <a href="https://pardesco.com/blogs/news/sacred-geometry-art-symbols-meanings" target="_blank">https://pardesco.com/blogs/news/sacred-geometry-art-symbols-meanings</a>
 <br>Weisstein, Eric W. "Polyhedra" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/topics/Polyhedra.html" target="_blank">https://mathworld.wolfram.com/topics/Polyhedra.html</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
-<br>Solar System Scope. "Solar Textures: Stars and Milky Way". <a href="http://dmccooey.com/polyhedra/" target="_blank">https://www.solarsystemscope.com/textures/</a>
+<br>Solar System Scope. "Solar Textures: Stars and Milky Way". <a href="https://www.solarsystemscope.com/textures/" target="_blank">https://www.solarsystemscope.com/textures/</a>
+<br>McCooey, D. I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>

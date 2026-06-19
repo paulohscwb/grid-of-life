@@ -9,11 +9,11 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option disabled value="../../archimedes/pt-br/">Poliedros de Arquimedes</option>
-		<!--<option value="../../biscribed/pt-br/">Poliedros biscritos</option>-->
+		<option value="../../biscribed/pt-br/">Poliedros biscritos</option>
 		<option value="../../catalan/pt-br/">Poliedros de Catalan</option>
 		<option value="../../joined/pt-br/">Cascos convexos de Arquimedes e de Catalan</option>
-		<!--<option value="../../nonconvex/pt-br/">Poliedros não convexos</option>
-		<option value="../../propellor/pt-br/">Poliedros de hélice</option>
+		<option value="../../nonconvex/pt-br/">Poliedros não convexos</option>
+		<!--<option value="../../propellor/pt-br/">Poliedros de hélice</option>
 		<option value="../../toroids/pt-br/">Toroides poliédricos</option>-->
 	</select>
 </form>
@@ -87,6 +87,55 @@ function urlHandler(value) {
  <br><br><br>Grande parte do fascínio do símbolo da Grade da Vida vem do número 64, que surge recorrentemente na natureza, nas construções e no misticismo. Um tetraedro truncado estrelado pode ser inscrito no símbolo da Grade da Vida.
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>9. Cuboctaedro de pipas</h4>
+<a href="../vr/GridOfLife_CuboctahedronK.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Grade da vida - Cuboctaedro de pipas"></a><img src="../ar/8.png" class="qr">
+ <br><br><br>O cuboctaedro de Arquimedes representa o Vetor de Equilíbrio de energia. O cuboctaedro corresponde à sétima circunferência do símbolo da Semente da Vida e os vértices deste sólido aparecem sobrepostos ou com correspondência a algumas interseções das linhas do símbolo da Grade da Vida.
+ <br><br><br>
+<a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>10. Rombicuboctaedro de pipas</h4>
+<a href="../vr/GridOfLife_RhombicuboctahedronK.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Grade da vida - Rombicuboctaedro de pipas"></a><img src="../ar/9.png" class="qr">
+ <br><br><br>Grande parte do fascínio do símbolo da Grade da Vida vem do número 64, que surge recorrentemente na natureza, nas construções e no misticismo. Um rombicuboctaedro de pipas pode ser inscrito no símbolo da Grade da Vida.
+ <br><br><br>
+<a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<hr>
+<h4>11. Cubo Snub de pipas</h4>
+<a href="../vr/GridOfLife_SnubCubeK.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Grade da vida - Cubo Snub de pipas"></a><img src="../ar/10.png" class="qr">
+ <br><br><br>Alguns exemplos que podemos citar são: na computação, onde o número de 64 bits de memória é essencial; nos jogos clássicos de xadrez ou damas, que possuem 64 casas em seus tabuleiros; ou em textos sagrados do Hinduísmo, que faz referência a 64 tantras. Um cubo snub de pipas pode ser inscrito no símbolo da Grade da Vida.
+ <br><br><br>
+<a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>12. Cubo Truncado de pipas</h4>
+<a href="../vr/GridOfLife_TruncatedCubeK.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Grade da vida - Cubo Truncado de pipas"></a><img src="../ar/11.png" class="qr">
+ <br><br><br>Grande parte do fascínio do símbolo da Grade da Vida vem do número 64, que surge recorrentemente na natureza, nas construções e no misticismo. Um cubo truncado de pipas pode ser inscrito no símbolo da Grade da Vida.
+ <br><br><br>
+<a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>13. Cuboctaedro Truncado de pipas</h4>
+<a href="../vr/GridOfLife_TruncatedCuboctahedronK.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Grade da vida - Cuboctaedro Truncado de pipas"></a><img src="../ar/12.png" class="qr">
+ <br><br><br>Alguns exemplos que podemos citar são: na computação, onde o número de 64 bits de memória é essencial; nos jogos clássicos de xadrez ou damas, que possuem 64 casas em seus tabuleiros; ou em textos sagrados do Hinduísmo, que faz referência a 64 tantras. Um cuboctaedro truncado de pipas pode ser inscrito no símbolo da Grade da Vida.
+ <br><br><br>
+<a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>14. Octaedro Truncado de pipas</h4>
+<a href="../vr/GridOfLife_TruncatedOctahedronK.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Grade da vida - Octaedro Truncado de pipas"></a><img src="../ar/13.png" class="qr">
+ <br><br><br>Grande parte do fascínio do símbolo da Grade da Vida vem do número 64, que surge recorrentemente na natureza, nas construções e no misticismo. Um octaedro truncado de pipas pode ser inscrito no símbolo da Grade da Vida.
+ <br><br><br>
+<a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>15. Tetraedro Truncado de pipas</h4>
+<a href="../vr/GridOfLife_TruncatedTetrahedronK.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Grade da vida - Tetraedro Truncado de pipas"></a><img src="../ar/14.png" class="qr">
+ <br><br><br>Alguns exemplos que podemos citar são: na computação, onde o número de 64 bits de memória é essencial; nos jogos clássicos de xadrez ou damas, que possuem 64 casas em seus tabuleiros; ou em textos sagrados do Hinduísmo, que faz referência a 64 tantras. Um tetraedro truncado de pipas pode ser inscrito no símbolo da Grade da Vida.
+ <br><br><br>
+<a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>16. Tetraedro Truncado Estrelado de pipas</h4>
+<a href="../vr/GridOfLife_TruncatedTetrahedronStarK.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Grade da vida - Tetraedro Truncado Estrelado de pipas"></a><img src="../ar/15.png" class="qr">
+ <br><br><br>Grande parte do fascínio do símbolo da Grade da Vida vem do número 64, que surge recorrentemente na natureza, nas construções e no misticismo. Um tetraedro truncado estrelado de pipas pode ser inscrito no símbolo da Grade da Vida.
+ <br><br><br>
+<a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <hr>
 
@@ -98,5 +147,5 @@ function urlHandler(value) {
 <br><br><b>Referências:</b>
 <br>Pardesco. "Sacred Geometry Art, Symbols & Meanings". <a href="https://pardesco.com/blogs/news/sacred-geometry-art-symbols-meanings" target="_blank">https://pardesco.com/blogs/news/sacred-geometry-art-symbols-meanings</a>
 <br>Weisstein, Eric W. "Polyhedra" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/topics/Polyhedra.html" target="_blank">https://mathworld.wolfram.com/topics/Polyhedra.html</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
-<br>Solar System Scope. "Solar Textures: Stars and Milky Way". <a href="http://dmccooey.com/polyhedra/" target="_blank">https://www.solarsystemscope.com/textures/</a>
+<br>Solar System Scope. "Solar Textures: Stars and Milky Way". <a href="https://www.solarsystemscope.com/textures/" target="_blank">https://www.solarsystemscope.com/textures/</a>
+<br>McCooey, D. I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>

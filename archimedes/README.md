@@ -9,11 +9,11 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option disabled value="../archimedes/">Archimedean polyhedra</option>
-		<!--<option value="../biscribed/">Biscribed polyhedr</option>-->
+		<option value="../biscribed/">Biscribed polyhedra</option>
 		<option value="../catalan/">Catalan polyhedra</option>
 		<option value="../joined/">Archimedean and Catalan convex hulls</option>
-		<!--<option value="../nonconvex/">Nonconvex polyhedra</option>
-		<option value="../propellor/">Propellor polyhedra</option>
+		<option value="../nonconvex/">Nonconvex polyhedra</option>
+		<!--<option value="../propellor/">Propellor polyhedra</option>
 		<option value="../toroids/">Polyhedral toroids</option>-->
 	</select>
 </form>
@@ -87,6 +87,55 @@ The symbol of the Grid of Life, also called tetrahedron 64, contrasts the Star T
  <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A truncated stellated tetrahedron can be inscribed in the Grid of Life symbol.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>9. Cuboctahedron kites</h4>
+<a href="vr/GridOfLife_CuboctahedronK.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Grid of life - Cuboctahedron kites"></a><img src="ar/8.png" class="qr">
+ <br><br><br>The Archimedes cuboctahedron represents the Energy Vector of Equilibrium. The cuboctahedron corresponds to the seventh circumference of the Seed of Life symbol and the vertices of this solid appear overlapping or in correspondence with some intersections of the Grid of Life symbol lines.
+ <br><br>
+  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+ <hr>
+<h4>10. Rhombicuboctahedron kites</h4>
+<a href="vr/GridOfLife_RhombicuboctahedronK.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Grid of life - Rhombicuboctahedron kites"></a><img src="ar/9.png" class="qr">
+ <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A rhombicuboctahedron kites can be inscribed in the Grid of Life symbol.
+ <br><br>
+ <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+  <p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<hr>
+<h4>11. Snub Cube kites</h4>
+<a href="vr/GridOfLife_SnubCubeK.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Grid of life - Snub Cube kites"></a><img src="ar/10.png" class="qr">
+ <br><br><br>Some examples that we can cite are: in computing, where the number of 64 bits of memory is essential; in the classic games of chess or checkers, which have 64 squares on their boards; or in sacred texts of Hinduism, which references 64 tantras. A snub cube kites can be inscribed in the Grid of Life symbol.
+ <br><br>
+ <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+ <hr>
+<h4>12. Truncated Cube kites</h4>
+<a href="vr/GridOfLife_TruncatedCubeK.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Grid of life - Truncated Cube kites"></a><img src="ar/11.png" class="qr">
+ <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A truncated cube kites can be inscribed in the Grid of Life symbol.
+ <br><br>
+ <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>13. Truncated Cuboctahedron kites</h4>
+<a href="vr/GridOfLife_TruncatedCuboctahedronK.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Grid of life - Truncated Cuboctahedron kites"></a><img src="ar/12.png" class="qr">
+ <br><br><br>Some examples that we can cite are: in computing, where the number of 64 bits of memory is essential; in the classic games of chess or checkers, which have 64 squares on their boards; or in sacred texts of Hinduism, which references 64 tantras. A truncated cuboctahedron kites can be inscribed in the Grid of Life symbol.
+ <br><br>
+  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+ <hr>
+<h4>14. Truncated Octahedron kites</h4>
+<a href="vr/GridOfLife_TruncatedOctahedronK.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Grid of life - Truncated Octahedron kites"></a><img src="ar/13.png" class="qr">
+ <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A truncated octahedron kites can be inscribed in the Grid of Life symbol.
+ <br><br>
+ <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+ <hr>
+<h4>15. Truncated Tetrahedron kites</h4>
+<a href="vr/GridOfLife_TruncatedTetrahedronK.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Grid of life - Truncated Tetrahedron kites"></a><img src="ar/14.png" class="qr">
+ <br><br><br>Some examples that we can cite are: in computing, where the number of 64 bits of memory is essential; in the classic games of chess or checkers, which have 64 squares on their boards; or in sacred texts of Hinduism, which references 64 tantras. A truncated tetrahedron kites can be inscribed in the Grid of Life symbol.
+ <br><br>
+  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+ <hr>
+<h4>16. Truncated Stellated Tetrahedron kites</h4>
+<a href="vr/GridOfLife_TruncatedTetrahedronStarK.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Grid of Life - Truncated Stellated Tetrahedron kites"></a><img src="ar/15.png" class="qr">
+ <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A truncated stellated tetrahedron kites can be inscribed in the Grid of Life symbol.
+ <br><br>
+ <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <hr>
 
@@ -98,5 +147,5 @@ The symbol of the Grid of Life, also called tetrahedron 64, contrasts the Star T
 <br><br><b>References:</b>
 <br>Pardesco. "Sacred Geometry Art, Symbols & Meanings". <a href="https://pardesco.com/blogs/news/sacred-geometry-art-symbols-meanings" target="_blank">https://pardesco.com/blogs/news/sacred-geometry-art-symbols-meanings</a>
 <br>Weisstein, Eric W. "Polyhedra" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/topics/Polyhedra.html" target="_blank">https://mathworld.wolfram.com/topics/Polyhedra.html</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
-<br>Solar System Scope. "Solar Textures: Stars and Milky Way". <a href="http://dmccooey.com/polyhedra/" target="_blank">https://www.solarsystemscope.com/textures/</a>
+<br>Solar System Scope. "Solar Textures: Stars and Milky Way". <a href="https://www.solarsystemscope.com/textures/" target="_blank">https://www.solarsystemscope.com/textures/</a>
+<br>McCooey, D. I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>

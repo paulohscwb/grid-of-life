@@ -9,11 +9,11 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Poliedros de Arquimedes</option>
-		<!--<option value="../../biscribed/pt-br/">Poliedros biscritos</option>-->
+		<option value="../../biscribed/pt-br/">Poliedros biscritos</option>
 		<option value="../../catalan/pt-br/">Poliedros de Catalan</option>
 		<option disabled value="../../joined/pt-br/">Cascos convexos de Arquimedes e de Catalan</option>
-		<!--<option value="../../nonconvex/pt-br/">Poliedros não convexos</option>
-		<option value="../../propellor/pt-br/">Poliedros de hélice</option>
+		<option value="../../nonconvex/pt-br/">Poliedros não convexos</option>
+		<!--<option value="../../propellor/pt-br/">Poliedros de hélice</option>
 		<option value="../../toroids/pt-br/">Toroides poliédricos</option>-->
 	</select>
 </form>
@@ -104,5 +104,5 @@ function urlHandler(value) {
 <br><br><b>Referências:</b>
 <br>Pardesco. "Sacred Geometry Art, Symbols & Meanings". <a href="https://pardesco.com/blogs/news/sacred-geometry-art-symbols-meanings" target="_blank">https://pardesco.com/blogs/news/sacred-geometry-art-symbols-meanings</a>
 <br>Weisstein, Eric W. "Polyhedra" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/topics/Polyhedra.html" target="_blank">https://mathworld.wolfram.com/topics/Polyhedra.html</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
-<br>Solar System Scope. "Solar Textures: Stars and Milky Way". <a href="http://dmccooey.com/polyhedra/" target="_blank">https://www.solarsystemscope.com/textures/</a>
+<br>Solar System Scope. "Solar Textures: Stars and Milky Way". <a href="https://www.solarsystemscope.com/textures/" target="_blank">https://www.solarsystemscope.com/textures/</a>
+<br>McCooey, D. I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
