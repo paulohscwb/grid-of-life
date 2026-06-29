@@ -40,7 +40,7 @@ The symbol of the Grid of Life, also called tetrahedron 64, contrasts the Star T
 <p align="center"><img style="border-radius:7px;" alt="Augmented Reality to Grid of Life" src="ar/example.png" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXtlU9Y-VgIXEvkTGrlRsG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?si=mRmIO3-LKAgqDyWt&amp;list=PLafAZayv5Wf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Concave dodecahedron</h4>
 <a href="vr/ConcaveDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/43A.png" class="foto" alt="Grid of life - Concave Dodecahedron"></a><img src="ar/43.png" class="qr">
  <br><br><br>Much of the fascination of the Grid of Life symbol comes from the number 64, which appears recurrently in nature, constructions and mysticism. A concave dodecahedron can be inscribed in the Grid of Life symbol.
